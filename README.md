@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="moelsaeed66" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamed79158636" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed79158636?logo=twitter&style=for-the-badge" alt="mohamed79158636" /></a> </p>
+
 
 - 📫 How to reach me **mohamedelsaee66@gmail.com**
 
